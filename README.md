@@ -67,12 +67,12 @@ Each location is typically sampled once per week as part of a rotating monitorin
 
 This analysis demonstrates how operational sampling data can be transformed into actionable insights for monitoring and decision-making. It provides a framework for identifying locations that may require additional attention while confirming overall system reliability.
 
-#### Tools
+### Tools
 - Python (Pandas, NumPy)
 - Matplotlib
 - Jupyter Notebook
 
-#### Next Steps
+### Next Steps
 - Incorporate additional variables such as temperature or hydraulic factors
 - Develop automated monitoring or alerting for low residual thresholds
 - Extend analysis into a dashboard for ongoing use
