@@ -1,5 +1,6 @@
 # Chlorine Residual Analysis – Water Distribution System
 
+![Chlorine Heatmap](chlorineheatmap.png)
 ### Overview
 
 This project analyzes chlorine residual data from a municipal water distribution system serving over 1 million residents. The objective is to evaluate overall disinfection performance, identify potential risk areas, and develop a data-driven framework for ongoing monitoring.
